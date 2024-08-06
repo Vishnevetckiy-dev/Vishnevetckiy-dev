@@ -1,7 +1,7 @@
 <h1 align="center">Приветствую тебя
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">Меня зовут Борис</h2>
-<h3 align="center">QA Engineer - осваиваю тестирование, продвигаюсь в IT
+<h3 align="center">QA Engineer - развиваюсь в тестирование, продвигаюсь в IT
  <br><br>
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 </h3>
